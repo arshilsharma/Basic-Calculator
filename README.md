@@ -1,2 +1,2 @@
 # Basic-Calculator
-A very basic calculator using c language
+A very basic calculator using Switch Case | C language  
